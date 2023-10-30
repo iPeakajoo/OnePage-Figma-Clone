@@ -1,0 +1,14 @@
+echo '
+	{
+	  "ledger": [
+	    {
+	  "id" : "001",
+	  "name" : "A",
+	  "receive: "500",
+	  "expenses: : "300",
+	  "balance" : "",
+		"date" : "",
+		"summary" : "",
+	    },
+	  ]}
+	'
