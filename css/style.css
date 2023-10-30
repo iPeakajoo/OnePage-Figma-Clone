@@ -383,7 +383,7 @@ header {
   gap: 60px;
 }
 
-.footer-bottom-left li a {
+.footer-bottom-left a {
   font-size: 14px;
   font-weight: var(--weight-regular);
   color: #929ecc;
