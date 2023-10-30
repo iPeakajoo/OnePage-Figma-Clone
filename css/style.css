@@ -89,15 +89,6 @@ header {
   border-radius: 2px;
 }
 
-.nav-icon {
-  display: none;
-}
-
-.fa-bars {
-  font-size: 1.5rem;
-  color: var(--color-text-headline);
-}
-
 .nav-btn a {
   text-decoration: none;
   color: var(--color-button-text);
@@ -296,6 +287,8 @@ header {
 .price-container {
   display: flex;
   flex-direction: column;
+  justify-content: center;
+  align-items: center;
   gap: 30px;
 }
 
